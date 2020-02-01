@@ -1,6 +1,8 @@
-table <- read.table("data/cant-remember-where-this-is-from.csv", header=TRUE, sep=",", fileEncoding = "UTF-8")
+table <- read.table("data/heathrow-may-oct-2015.csv", header=TRUE, sep=",", fileEncoding = "UTF-8")
 
 table <- subset(table, grepl("S", Cardinal.Direction, fixed=TRUE))
+
+print(table)
 
 dailyMaximumGust <- as.numeric(table$Daily.Maximum.Gust)
 
