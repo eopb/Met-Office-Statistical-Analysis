@@ -1,4 +1,4 @@
-Date,Daily Mean Temperature (0900-0900) (C),Daily Total Rainfall (0900-0900) (mm),Daily Total Sunshine (0000-2400) (hrs),Daily Mean Windspeed (0000-2400) (kn),Daily Mean Windspeed (0000-2400) (Beaufort conversion),Daily Maximum Gust (0000-2400) (kn),Daily Maximum Relative Humidity,Daily Mean Total Cloud (oktas),Daily Mean Visibility (Dm),Daily Mean Pressure (hPa),Daily Mean Wind Direction (o),Cardinal Direction,Daily Max Gust Corresponding Direction (o),Cardinal Direction
+Date,Daily Mean Temperature,Daily Total Rainfall,Daily Total Sunshine,Daily Mean Windspeed,Daily Mean Windspeed Beaufort conversion,Daily Maximum Gust,Daily Maximum Relative Humidity,Daily Mean Total Cloud,Daily Mean Visibility,Daily Mean Pressure,Daily Mean Wind Direction,Cardinal Direction,Daily Max Gust Corresponding Direction,Cardinal Direction
 01/05/1987,14.6,1.6,n/a,n/a,n/a,n/a,96,7,1300,1017,210,SSW,230,SW
 02/05/1987,8.8,1.9,n/a,n/a,n/a,n/a,97,4,2500,1014,250,WSW,290,WNW
 03/05/1987,7.2,2.2,n/a,n/a,n/a,n/a,91,5,2100,1023,340,NNW,330,NNW
